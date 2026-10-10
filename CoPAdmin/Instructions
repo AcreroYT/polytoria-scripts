@@ -1,6 +1,0 @@
-Always put in ScriptService.
-Change UIDs in CommandManager to give admin.
-Should be one of the first few lines...
-That's it.
-
-Everything else is done automatically.
